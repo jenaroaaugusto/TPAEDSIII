@@ -1,0 +1,9 @@
+README
+
+Para compilar utilize o utilitario make no terminal.
+
+Executar
+Siga o padrão:
+Digite o nome posteriormente a chamada de execução do programa.
+./tp3 <arquivo_entrada.txt>
+
